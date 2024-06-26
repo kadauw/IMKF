@@ -147,7 +147,7 @@ Limited Material Selection: Not all materials are available for 3D printing comp
 Overall, additive manufacturing offers a range of advantages that are making it an increasingly important tool for designers, engineers, and manufacturers. However, it's important to consider the limitations of the technology when deciding if it's the right choice for a particular application.
 
 
-#### 06	Which solution better fits your needs?
+### 06	Which solution better fits your needs?
 
 There are many options when choosing how to print the 3D models. It is important to define all the requirements and select which might be the best option. 
 
@@ -163,7 +163,7 @@ Each technology has its own benefits and applications, so the answer to the foll
 
 
 
-#### 07	Reference
+### 07	Reference
 
 
 •	Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
@@ -179,7 +179,7 @@ Each technology has its own benefits and applications, so the answer to the foll
 •	Prof. Henning Zeidler Lecture
 
 
-#### 08	Question
+### 08	Question
 
 •	How does additive manufacturing create parts that would be impossible with any other manufacturing technique?
 
