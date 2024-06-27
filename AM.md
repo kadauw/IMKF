@@ -183,17 +183,19 @@ Each technology has its own benefits and applications, so the answer to the foll
 
 •	How does additive manufacturing create parts that would be impossible with any other manufacturing technique?
 
+
 •	Is additive manufacturing good for mass production?
+
 
 •	What is the main advantage of 3D printing over traditional manufacturing methods?
 
-        a) Lower cost
-
-        b) Faster production speed
-
-        c) Ability to create complex geometries
-
-        d) More durable materials
+                a) Lower cost
+        
+                b) Faster production speed
+        
+                c) Ability to create complex geometries
+        
+                d) More durable materials
 
 
 ## IMKF
