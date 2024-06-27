@@ -302,17 +302,17 @@ Disadvantages of 3D Scanning:
 ### 07	Reference
 
 
-•	Gary C. Confalone, John Smits, Thomas Kinnare : 3D Scanning for Advanced Manufacturing, Design, and Construction: Metrology for Advanced Manufacturing 1119758513, 2023
++	Gary C. Confalone, John Smits, Thomas Kinnare : 3D Scanning for Advanced Manufacturing, Design, and Construction: Metrology for Advanced Manufacturing 1119758513, 2023
 
-•	Bass, Carl; Bernier, Samuel N.; Luyt, Bertier; Reinhard, Tatiana Make: design for 3D printing, scanning, creating, editing, remixing, and making in three dimensions, ISBN: 9781457187322 , 2015
++	Bass, Carl; Bernier, Samuel N.; Luyt, Bertier; Reinhard, Tatiana Make: design for 3D printing, scanning, creating, editing, remixing, and making in three dimensions, ISBN: 9781457187322 , 2015
 
-•	https://www.creaform3d.com/sites/default/files/assets/technological-fundamentals/ebook1_an_introduction_to_3D_scanning.pdf
++	https://www.creaform3d.com/sites/default/files/assets/technological-fundamentals/ebook1_an_introduction_to_3D_scanning.pdf
 
-•	https://www.3d-scantech.com/
++	https://www.3d-scantech.com/
 
-•	https://en.wikipedia.org/wiki/3D_scanning
++	https://en.wikipedia.org/wiki/3D_scanning
 
-•	Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
++	Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
 
 
 
@@ -322,17 +322,16 @@ Disadvantages of 3D Scanning:
 
 •	How does additive manufacturing create parts that would be impossible with any other manufacturing technique?
 
+
 •	Is additive manufacturing good for mass production?
+
 
 •	What is the main advantage of 3D printing over traditional manufacturing methods?
 
-        a) Lower cost
-
-        b) Faster production speed
-
-        c) Ability to create complex geometries
-
-        d) More durable materials
++	a) Lower cost
++	b) Faster production speed
++	c) Ability to create complex geometries
++	d) More durable materials
 
 
 ## IMKF
