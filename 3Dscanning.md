@@ -23,14 +23,22 @@ translation: Deutsch  translations/German.md
 
 in this 3D Sanning white paper will be pres.....
 
+
+![3D Sanning](https://www.makepartsfast.com/wp-content/uploads/2021/11/Image-4.jpg)
+
+
+
+
+
+
+
+
 ### 01 Introduction to 3D Scanning
 
-3D scanning is the process of capturing the three-dimensional shape and, sometimes, appearance of a real-world object or environment using a specialized device called a 3D scanner. In simpler terms, it's like taking a digital snapshot of an object in all its 3D glory. [Gebhardt, Markforged]
+3D scanning is the process of capturing the three-dimensional shape and, sometimes, appearance of a real-world object or environment using a specialized device called a 3D scanner. In simpler terms, it's like taking a digital snapshot of an object in all its 3D glory. 3D scanning is like taking a mold of an object, but instead of a physical mold, you get a digital one that can be easily edited, shared, and used for various purposes. The best type of 3D scanner for a particular application depends on the object's size, complexity, desired level of accuracy, and budget. [Gebhardt, Markforged]
 
-![3D Sanning](https://tu-freiberg.de/sites/default/files/2024-04/N6Z_5525-Final-web.jpg)
+![3D Sanning](https://www.surfacescan.co.uk/wp-content/uploads/2020/05/what-is-a-3d-scanning-used-for-1536x768.jpg)
 
-
-3D scanning is like taking a mold of an object, but instead of a physical mold, you get a digital one that can be easily edited, shared, and used for various purposes.
 
 3D scanning makes this possible to take a real-world object and bring it into the digital world It's like magic, but with some serious technology behind it. 
 Here's a glimpse into what 3D scanning is all about:
@@ -41,12 +49,13 @@ Here's a glimpse into what 3D scanning is all about:
 
 •	A World of Technologies: Different 3D scanners use various techniques to achieve this capture. Lasers, structured light patterns, and even sound waves are some of the tools in the 3D scanning toolbox.
 
-![Additive Manufacturing](https://tu-freiberg.de/sites/default/files/2024-04/N6Z_5525-Final-web.jpg)
+![Additive Manufacturing](https://tu-freiberg.de/sites/default/files/styles/max_1200x1200/public/2023-05/850_3622.jpg)
+
 
 Instead of taking a physical cast of an object, 3D scanning creates a digital one. This digital mold offers incredible benefits:
-•	Easy Editing and Manipulation: Unlike a physical mold, the digital 3D model can be easily edited, scaled, and modified on a computer.
-•	Sharing Made Simple: Digital files are easy to share and store, allowing collaboration and remote work on scanned objects.
-•	Unlocking New Applications: 3D scanned models have a wide range of uses, from creating 3D printed replicas to designing new products or preserving historical artifacts.
++ 	Easy Editing and Manipulation: Unlike a physical mold, the digital 3D model can be easily edited, scaled, and modified on a computer.
++ 	Sharing Made Simple: Digital files are easy to share and store, allowing collaboration and remote work on scanned objects.
++  Unlocking New Applications: 3D scanned models have a wide range of uses, from creating 3D printed replicas to designing new products or preserving historical artifacts.
 
 **********************
 
@@ -54,20 +63,20 @@ Instead of taking a physical cast of an object, 3D scanning creates a digital on
 
 3D scanning boasts a surprisingly long history, with roots dating back to the 1960s! Here's a whistle-stop tour of its evolution:
 
-Early Days (1960s):
++ Early Days (1960s):
 The pioneering stages involved using lights, cameras, and projectors – a far cry from the streamlined devices we have today. These early scanners were slow and cumbersome, requiring significant time and effort to capture even simple objects.
 
-Breakthroughs in the 1980s:
++ Breakthroughs in the 1980s:
 The introduction of contact probe scanners marked a turning point. These probes physically touched the object, taking thousands of measurements to create a 3D model. While more accurate than previous methods, they were still limited in speed and risked damaging delicate objects.
 
-The Dawn of Laser Scanning (1990s):
++ The Dawn of Laser Scanning (1990s):
  The 1990s saw the arrival of the first commercially available 3D scanners, utilizing laser technology.
  These scanners offered a significant leap in speed and accuracy, making 3D scanning more practical.
 
-Rapid Advancement (2000s-Present):
++ Rapid Advancement (2000s-Present):
 The new millennium brought exponential growth in 3D scanning technology. A wider range of scanning techniques emerged, including structured light and photogrammetry. Scanners became faster, more portable, and even affordable for hobbyists.  The ability to capture color data in addition to shape became more commonplace.
 
-The Future of 3D Scanning:
++ The Future of 3D Scanning:
 Today, 3D scanning continues to evolve rapidly. Researchers are exploring new technologies like AI and machine learning to further enhance accuracy and speed. The integration of 3D scanning with other technologies like 3D printing promises even more exciting possibilities in the future.
 
 [Wohlers Associates] [Markforged]
@@ -75,7 +84,7 @@ Today, 3D scanning continues to evolve rapidly. Researchers are exploring new te
 
 
 
-![History of 3D Scanning](https://mitsloan.mit.edu/sites/default/files/styles/2_1_xxl_2560_x_1280/public/2018-10/3dprinting-timeline.png?h=e9dd200c&itok=49voNDPe)
+![History of 3D Scanning](https://threedom.de/wp-content/uploads/francoise-willeme-1864-patent.jpg.avif)
 
 
 
@@ -86,7 +95,7 @@ Today, 3D scanning continues to evolve rapidly. Researchers are exploring new te
 
 There are two main categories of 3D scanning technologies: contact and non-contact.
 
-Contact Scanning:
+#### A) Contact Scanning:
 As the name suggests, contact scanners physically touch the surface of the object to capture its shape. A probe or stylus on the scanner moves across the object, taking measurements at numerous points.
  [11, 12, 13, Henning].
 
@@ -110,7 +119,7 @@ Here's a breakdown of the two main types of contact scanners:
 
 
 
-Non-Contact Scanning:
+#### B) Non-Contact Scanning:
 Non-contact scanners, on the other hand, capture the object's shape without physically touching it. These scanners use various technologies like lasers, structured light, or even sound waves to gather data about the object's surface.
 
 Here are some of the most common types of non-contact 3D scanning:
@@ -122,39 +131,45 @@ Here are some of the most common types of non-contact 3D scanning:
 ![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
 
 2) Computed Tomography (CT)
-Computed Tomography (CT) scanning is a type of 3D scanning technology that uses X-rays to capture detailed internal and external images of an object. Unlike traditional 3D scanners that capture data from the surface of an object, CT scanners can create a 3D representation of the object's entire volume.  Here are some common applications of CT 3D scanning:
-•	Medical Imaging: In the medical field, CT scans are widely used for diagnosing injuries, diseases, and abnormalities within the body.
-•	Reverse Engineering: CT scanning is used in reverse engineering to create digital models of existing physical objects for analysis, improvement, or creating compatible parts.
-•	Quality Control: In manufacturing, CT scans can be used to inspect products for internal defects or to ensure they meet design specifications.
-•	Paleontology: CT scanning is used in paleontology to study the internal structures of fossils, providing valuable insights into the anatomy and biology of extinct creatures.
+Computed Tomography (CT) scanning is a type of 3D scanning technology that uses X-rays to capture detailed internal and external images of an object. Unlike traditional 3D scanners that capture data from the surface of an object, CT scanners can create a 3D representation of the object's entire volume.
+
+Bildmotiv: CT 3D scanning
+![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
+
+
+Here are some common applications of CT 3D scanning:
++	Medical Imaging: In the medical field, CT scans are widely used for diagnosing injuries, diseases, and abnormalities within the body.
++	Reverse Engineering: CT scanning is used in reverse engineering to create digital models of existing physical objects for analysis, improvement, or creating compatible parts.
++	Quality Control: In manufacturing, CT scans can be used to inspect products for internal defects or to ensure they meet design specifications.
++	Paleontology: CT scanning is used in paleontology to study the internal structures of fossils, providing valuable insights into the anatomy and biology of extinct creatures.
 
 
 CT scanning offers several advantages over other 3D scanning techniques:
-•	High Accuracy: CT scans can produce highly accurate 3D models, even for complex objects with intricate internal structures.
-•	Non-Destructive: Like other 3D scanning methods, CT scanning is non-destructive, meaning it doesn't damage the object being scanned.
-•	Internal Imaging: Unlike most 3D scanners that only capture surface data, CT scans can reveal internal features and structures.
++ 	High Accuracy: CT scans can produce highly accurate 3D models, even for complex objects with intricate internal structures.
++ 	Non-Destructive: Like other 3D scanning methods, CT scanning is non-destructive, meaning it doesn't damage the object being scanned.
++ 	Internal Imaging: Unlike most 3D scanners that only capture surface data, CT scans can reveal internal features and structures.
 
 However, there are also some limitations to consider:
-•	Cost: CT scanners are expensive machines, and the scanning process can be costly.
-•	Radiation Exposure: CT scans involve exposure to ionizing radiation, which can be harmful in high doses.
-•	Scan Size Limitations: The size of the object that can be scanned is limited by the size of the CT scanner's opening.
++ 	Cost: CT scanners are expensive machines, and the scanning process can be costly.
++ 	Radiation Exposure: CT scans involve exposure to ionizing radiation, which can be harmful in high doses.
++ 	Scan Size Limitations: The size of the object that can be scanned is limited by the size of the CT scanner's opening.
 
-3) Structured Light Scanning
-•	Projects a pattern of light onto the object and analyzes the way it deforms to create a 3D model.
-•	Faster than laser scanning and good for capturing color data.
+
+
+3) Structured Light Scanning:
++ 	Projects a pattern of light onto the object and analyzes the way it deforms to create a 3D model.
++ 	Faster than laser scanning and good for capturing color data.
     
 Bildmotiv: Structured Light Scanning 3D scanner
     www.polyga.com
     Structured Light Scanning 3D scanner 
-
-
 ![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
 
 
 
-4) Photogrammetry
-•	Uses multiple photographs of an object from different angles to create a 3D model.
-•	More affordable option but may not be as accurate as other methods.
+4) Photogrammetry:
++ 	Uses multiple photographs of an object from different angles to create a 3D model.
++ 	More affordable option but may not be as accurate as other methods.
 
 
 ![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
@@ -164,11 +179,11 @@ Bildmotiv: Structured Light Scanning 3D scanner
     Photogrammetry 3D scanner 
 
 
-5) White Light Scanning
+5) White Light Scanning:
 Uses a projector to bathe the object in white light and multiple cameras to capture the reflected light from different angles.
 •	Can capture high-resolution 3D models and color data quickly.
    
-The best type of 3D scanner for a particular application depends on the object's size, complexity, desired level of accuracy, and budget.
+
 
 
 
