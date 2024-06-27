@@ -91,8 +91,9 @@ Today, 3D scanning continues to evolve rapidly. Researchers are exploring new te
 ### 03	Types of 3D Scanning
 
 There are two main categories of 3D scanning technologies:
-A) Contact 
-B) and Non-contact.
+
++ A) Contact 
++ B) and Non-contact.
 
 
 #### A) Contact Scanning:
