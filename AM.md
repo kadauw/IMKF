@@ -166,9 +166,9 @@ Each technology has its own benefits and applications, so the answer to the foll
 ### 07	Reference
 
 
-•	Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
++ Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
 
-•	Ian Gibson, David Rosen, Brent Stucker (auth.) - Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing-Springer-Verlag New York (2015)
++ Ian Gibson, David Rosen, Brent Stucker (auth.) - Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing-Springer-Verlag New York (2015)
 
 + Wohlers Associates
 
