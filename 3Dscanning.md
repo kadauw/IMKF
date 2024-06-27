@@ -57,7 +57,7 @@ Instead of taking a physical cast of an object, 3D scanning creates a digital on
 + 	Sharing Made Simple: Digital files are easy to share and store, allowing collaboration and remote work on scanned objects.
 +  Unlocking New Applications: 3D scanned models have a wide range of uses, from creating 3D printed replicas to designing new products or preserving historical artifacts.
 
-**********************
+
 
 ### 02	History of 3D Scanning
 
@@ -86,7 +86,6 @@ Today, 3D scanning continues to evolve rapidly. Researchers are exploring new te
 
 
 
-***************************
 
 
 ### 03	Types of 3D Scanning
