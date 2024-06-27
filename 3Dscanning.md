@@ -100,22 +100,34 @@ B) and Non-contact.
 As the name suggests, contact scanners physically touch the surface of the object to capture its shape. A probe or stylus on the scanner moves across the object, taking measurements at numerous points.
 
 
-![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
+
+
 
 Here's a breakdown of the two main types of contact scanners:
-1)	Coordinate Measuring Machines (CMMs)
+1)	Coordinate Measuring Machines (CMMs).
+ 
     •	CMMs are the workhorses of contact scanning, offering high accuracy and versatility.
     •	They have a fixed frame with a motorized arm that holds a touch probe.
     •	The probe physically touches the surface of the object at numerous points, taking precise measurements of its X, Y, and Z coordinates.
     •	CMMs can be programmed to follow complex paths, capturing data from intricate shapes.
 
 
-2)	Articulated Arm Coordinate Measuring Machines (AACMMs)
+![Types of 3D Scanning](https://www.thome-precision.com/images/smart/3D-manual-coordinate-measuring-machine.png)
+
+
+
+
+
+2)	Articulated Arm Coordinate Measuring Machines (AACMMs).
+   
     •	AACMMs offer more flexibility compared to traditional CMMs.
     •	They have a portable arm with multiple joints, allowing for greater reach and manoeuvrability.
     •	Like CMMs, they utilize a touch probe that captures data points by physically touching the object's surface.
     •	AACMMs are well-suited for scanning large or awkwardly shaped objects that wouldn't fit under a traditional CMM.
 
+
+
+![Types of 3D Scanning](https://media.faro.com/-/media/Project/FARO/FARO/FARO/Products/Hardware/faroArm/Carousel_QuantumMax_FaroArm_2_3DM_Web_1440x1080.jpg?rev=5a26b96a7105401ca460f37940e72bbe)
 
 
 
@@ -128,13 +140,19 @@ Here are some of the most common types of non-contact 3D scanning:
     •	Creates highly accurate 3D models.
 
 
-![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
+
+![Types of 3D Scanning](https://www.wiiboox.com/imgs/products/3m/m1-r.png)
+
+
 
 2) Computed Tomography (CT)
 Computed Tomography (CT) scanning is a type of 3D scanning technology that uses X-rays to capture detailed internal and external images of an object. Unlike traditional 3D scanners that capture data from the surface of an object, CT scanners can create a 3D representation of the object's entire volume.
 
+
+
 Bildmotiv: CT 3D scanning
-![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
+![CT Scanner](https://3dprintingindustry.com/wp-content/uploads/2016/04/ctscanner2.jpg)
+
 
 
 Here are some common applications of CT 3D scanning:
@@ -160,11 +178,9 @@ However, there are also some limitations to consider:
 + 	Projects a pattern of light onto the object and analyzes the way it deforms to create a 3D model.
 + 	Faster than laser scanning and good for capturing color data.
     
-Bildmotiv: Structured Light Scanning 3D scanner
-    www.polyga.com
-    Structured Light Scanning 3D scanner 
-![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
 
+    
+![ Structured Light Scanning 3D scanner](https://cdn.artec3d.com/styles/1468_webp/s3/content-hub-images/structured-light-15.jpg.webp?VersionId=PIOOSqsXmEYkU9e1HRiH3.drKhbv1KAg&itok=USEAqtxW)
 
 
 4) Photogrammetry:
@@ -172,11 +188,9 @@ Bildmotiv: Structured Light Scanning 3D scanner
 + 	More affordable option but may not be as accurate as other methods.
 
 
-![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
+![ Photogrammetry 3D scanner ](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*FWuYAnUZsH--rtYZ3y_e_A.jpeg)
 
- Bildmotiv: Photogrammetry 3D scanner
-    www.artec3d.com
-    Photogrammetry 3D scanner 
+
 
 
 5) White Light Scanning:
