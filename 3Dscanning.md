@@ -35,7 +35,7 @@ in this 3D Sanning white paper will be pres.....
 
 ### 01 Introduction to 3D Scanning
 
-3D scanning is the process of capturing the three-dimensional shape and, sometimes, appearance of a real-world object or environment using a specialized device called a 3D scanner. In simpler terms, it's like taking a digital snapshot of an object in all its 3D glory. 3D scanning is like taking a mold of an object, but instead of a physical mold, you get a digital one that can be easily edited, shared, and used for various purposes. The best type of 3D scanner for a particular application depends on the object's size, complexity, desired level of accuracy, and budget. [Gebhardt, Markforged]
+3D scanning is the process of capturing the three-dimensional shape and, sometimes, appearance of a real-world object or environment using a specialized device called a 3D scanner. In simpler terms, it's like taking a digital snapshot of an object in all its 3D glory. 3D scanning is like taking a mold of an object, but instead of a physical mold, you get a digital one that can be easily edited, shared, and used for various purposes. The best type of 3D scanner for a particular application depends on the object's size, complexity, desired level of accuracy, and budget. 
 
 ![3D Sanning](https://www.surfacescan.co.uk/wp-content/uploads/2020/05/what-is-a-3d-scanning-used-for-1536x768.jpg)
 
@@ -79,8 +79,6 @@ The new millennium brought exponential growth in 3D scanning technology. A wider
 + The Future of 3D Scanning:
 Today, 3D scanning continues to evolve rapidly. Researchers are exploring new technologies like AI and machine learning to further enhance accuracy and speed. The integration of 3D scanning with other technologies like 3D printing promises even more exciting possibilities in the future.
 
-[Wohlers Associates] [Markforged]
-
 
 
 
@@ -97,7 +95,6 @@ There are two main categories of 3D scanning technologies: contact and non-conta
 
 #### A) Contact Scanning:
 As the name suggests, contact scanners physically touch the surface of the object to capture its shape. A probe or stylus on the scanner moves across the object, taking measurements at numerous points.
- [11, 12, 13, Henning].
 
 
 ![Types of 3D Scanning](https://www.skz.de/fileadmin/user_upload/Bilder/_Forschung/Prozess/Additive%20Fertigung/Overview-Additive-Manufacturing.png)
