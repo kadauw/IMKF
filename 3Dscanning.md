@@ -302,17 +302,20 @@ Disadvantages of 3D Scanning:
 ### 07	Reference
 
 
+•	Gary C. Confalone, John Smits, Thomas Kinnare : 3D Scanning for Advanced Manufacturing, Design, and Construction: Metrology for Advanced Manufacturing 1119758513, 2023
+
+•	Bass, Carl; Bernier, Samuel N.; Luyt, Bertier; Reinhard, Tatiana Make: design for 3D printing, scanning, creating, editing, remixing, and making in three dimensions, ISBN: 9781457187322 , 2015
+
+•	https://www.creaform3d.com/sites/default/files/assets/technological-fundamentals/ebook1_an_introduction_to_3D_scanning.pdf
+
+•	https://www.3d-scantech.com/
+
+•	https://en.wikipedia.org/wiki/3D_scanning
+
 •	Andreas Gebhardt (Auth.) - Understanding Additive Manufacturing. Rapid Prototyping - Rapid Tooling - Rapid Manufacturing-HANSER-GARDEN PUBLICATION (Carl), ISBN 978-3-446-42552-1
 
-•	Ian Gibson, David Rosen, Brent Stucker (auth.) - Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing-Springer-Verlag New York (2015)
 
-•	Wohlers Associates
 
-•	Markforged
-
-•	https://doi.org/10.1016/j.autcon.2020.103268
-
-•	Prof. Henning Zeidler Lecture
 
 
 ### 08	Question
