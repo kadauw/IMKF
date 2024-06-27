@@ -170,13 +170,13 @@ Each technology has its own benefits and applications, so the answer to the foll
 
 •	Ian Gibson, David Rosen, Brent Stucker (auth.) - Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing-Springer-Verlag New York (2015)
 
-•	Wohlers Associates
++ Wohlers Associates
 
-•	Markforged
++	Markforged
 
-•	https://doi.org/10.1016/j.autcon.2020.103268
++	https://doi.org/10.1016/j.autcon.2020.103268
 
-•	Prof. Henning Zeidler Lecture
++ Lecture of Prof. Henning Zeidler 
 
 
 ### 08	Question
@@ -189,13 +189,13 @@ Each technology has its own benefits and applications, so the answer to the foll
 
 •	What is the main advantage of 3D printing over traditional manufacturing methods?
 
-                a) Lower cost
+          +   a) Lower cost
         
-                b) Faster production speed
+          +   b) Faster production speed
         
-                c) Ability to create complex geometries
+          +   c) Ability to create complex geometries
         
-                d) More durable materials
+          +   d) More durable materials
 
 
 ## IMKF
