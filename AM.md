@@ -190,8 +190,11 @@ Each technology has its own benefits and applications, so the answer to the foll
 •	What is the main advantage of 3D printing over traditional manufacturing methods?
 
           +   a) Lower cost
-        
           +   b) Faster production speed
+          +   c) Ability to create complex geometries
+          +   d) More durable materials
+        
+          
         
           +   c) Ability to create complex geometries
         
